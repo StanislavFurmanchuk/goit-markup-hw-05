@@ -561,8 +561,8 @@ header {
 }
 .modal {
   position: absolute;
-  width: 581px;
-  height: 521px;
+  width: 528px;
+  height: 581px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
